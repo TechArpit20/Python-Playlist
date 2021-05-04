@@ -61,5 +61,5 @@ print(type(s1),type(s2))
 d1=dict()
 d2={}
 d2={'Name':'Arpit'}
-print(d1['Name'])
+print(d2['Name'])
 print(type(d1))
